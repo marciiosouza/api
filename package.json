@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Este Projeto tem como objetivo criar uma API RESTful utilizando Node.js.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Marcio Souza",
+  "license": "ISC",
+  "type": "module"
+}
